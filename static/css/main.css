@@ -58,9 +58,10 @@ li.al {
 }
 li.bl {
 	float: left;
-	width: 633px;;
+	width: 632px;;
 	height: 38px;
 	line-height: 38px;
+	float: left;
 	border: dashed 1px #b09fc6;
 	margin: 2px;
 	text-align:center;
