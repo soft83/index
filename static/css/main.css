@@ -46,7 +46,7 @@ ul{
 }
 li.al {
 	float: left;
-	width: 633px;;
+	width: 1265px;;
 	height: 38px;
 	line-height: 38px;
 	border: dashed 1px #b09fc6;
@@ -58,7 +58,7 @@ li.al {
 }
 li.bl {
 	float: left;
-	width: 1265px;;
+	width: 633px;;
 	height: 38px;
 	line-height: 38px;
 	border: dashed 1px #b09fc6;
