@@ -46,6 +46,18 @@ ul{
 }
 li.al {
 	float: left;
+	width: 633px;;
+	height: 38px;
+	line-height: 38px;
+	border: dashed 1px #b09fc6;
+	margin: 2px;
+	text-align:center;
+	border-radius: 6px;
+	text-align: center;
+	background-color:#c3dce0f2;
+}
+li.bl {
+	float: left;
 	width: 1265px;;
 	height: 38px;
 	line-height: 38px;
